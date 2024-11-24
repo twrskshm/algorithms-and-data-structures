@@ -1,27 +1,23 @@
 # Algorithms and Data Structures  
   
 ## Overview  
-This repository is dedicated to exploring, implementing, and understanding various **algorithms** and **data  
-structures**. It serves as a resource for learning, practicing, and referencing fundamental concepts in computer science.  
+This repository is dedicated to exploring, implementing, and understanding various **algorithms** and **data structures**. It serves as a resource for learning, practicing, and referencing fundamental concepts in computer science.  
   
 ## Project Structure  
   
 ### Files  
 - **`.gitignore`**    
-  Specifies files and directories that should be ignored by Git. This ensures that unnecessary or sensitive files are  
-not tracked in version control.
+  Specifies files and directories that should be ignored by Git. This ensures that unnecessary or sensitive files are not tracked in version control.
   
 - **`README.md`**  
   Provides an overview of the repository, including its purpose, structure, and how to use it. You're reading it now!  
   
 ### Folders  
 - **`algorithms/`**    
-  Contains implementations of various algorithms, categorized by type (e.g., sorting, searching, graph, dynamic  
-programming).  
+  Contains implementations of various algorithms, categorized by type (e.g., sorting, searching, graph, dynamic programming).  
   
 - **`data-structures/`**  
-  Contains implementations of various data structures, such as arrays, linked lists, stacks, queues, trees, heaps,  
-graphs, and more.  
+  Contains implementations of various data structures, such as arrays, linked lists, stacks, queues, trees, heaps, graphs, and more.  
   
 ## Getting Started  
 1. Clone the repository:  
