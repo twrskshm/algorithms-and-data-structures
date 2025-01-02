@@ -6,3 +6,5 @@
 **/out/
 **/*.iml
 
+# Ignore personal notes.
+**/notes.txt
