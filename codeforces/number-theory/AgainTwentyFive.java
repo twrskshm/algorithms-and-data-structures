@@ -6,6 +6,8 @@ public class AgainTwentyFive {
     private static final int BASE = 5;
     private static final int MODULO = 100;
 
+    // Time complexity: O(t)
+    // Space complexity: O(1)
     public static void main(String[] args) {
         Scanner inputReader = new Scanner(System.in);
         long exponent = inputReader.nextLong();
